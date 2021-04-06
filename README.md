@@ -29,6 +29,9 @@ Osnovna šola
 * [App Inventor](https://appinventor.mit.edu/)
 * [Astro Pi: Mission Zero](https://astro-pi.org/sl/mission-zero/)
 
+
+### Knjige ###
+
 * [RaspberryPi Books](https://magpi.raspberrypi.org/books)
 * [Gaming Books](https://wireframe.raspberrypi.org/books)
 * [Maker Books](https://hackspace.raspberrypi.org/books)
@@ -55,13 +58,19 @@ Srednja šola
 (nekoč, če bi kdo sodeloval ...)
 
 
-### Učbeniki in gradiva ###
+### Učbeniki ###
 
 * [E-učbenik Informatika 1](https://lusy.fri.uni-lj.si/ucbenik/book/index.html)
 * [E-gradivo Informatika 2](https://anzeljg.github.io/rin2/book2/index.html)
 
+
+### Gradiva ###
+
 * [App Inventor](https://appinventor.mit.edu/)
 * [Astro Pi: Mission Space Lab](https://astro-pi.org/mission-space-lab/)
+
+
+### Knjige ###
 
 * [RaspberryPi Books](https://magpi.raspberrypi.org/books)
 * [Gaming Books](https://wireframe.raspberrypi.org/books)
