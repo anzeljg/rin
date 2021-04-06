@@ -7,8 +7,8 @@ Osnovna šola
 
 ### Učni načrti ###
 
-* [Računalništvo (neobvezni izbirni predmet)](./file/UN_OS_Racunalnistvo_neobvezni_izbirni.pdf) :mortar_board: 4.-6. razred :hourglass_flowing_sand: 3×35 ur = 105 ur
-* [Računalništvo (obvezni izbirni predmet): UBE, ROM, MME](./file/UN_OS_Racunalnistvo_neobvezni_izbirni.pdf) :mortar_board: 7.-9. razred :hourglass_flowing_sand: 3×35 ur = 105 ur
+* [Računalništvo (neobvezni izbirni predmet)](./file/UN_OS_Racunalnistvo_neobvezni_izbirni.pdf) 🎓 4.-6. razred ⏳ 3×35 ur = 105 ur
+* [Računalništvo (obvezni izbirni predmet): UBE, ROM, MME](./file/UN_OS_Racunalnistvo_neobvezni_izbirni.pdf) 🎓 7.-9. razred ⏳ 3×35 ur = 105 ur
 
 
 ### LDN ###
@@ -45,12 +45,12 @@ Srednja šola
 
 #### Splošna, klasična, strokovna gimnazija ####
 
-* [Informatika (obvezni + izbirni predmet)](./file/UN_SS_Informatika.pdf) :mortar_board: 1. letnik :hourglass_flowing_sand: 70+210 ur = 280 ur
+* [Informatika (obvezni + izbirni predmet)](./file/UN_SS_Informatika.pdf) 🎓 1. letnik ⏳ 70+210 ur = 280 ur
 
 #### Tehniška gimnazija ####
 
-* [Računalništvo (izbirni strokovni maturitetni predmet)](./file/UN_SS_Racunalnistvo.pdf) :mortar_board: ? letnik :hourglass_flowing_sand: 280 ur
-* [Računalniški sistemi in omrežja (izbirni strokovni predmet)](./file/UN_SS_Racunalniski_sistemi_in_omrezja.pdf) :mortar_board: ? letnik :hourglass_flowing_sand: 210 ur
+* [Računalništvo (izbirni strokovni maturitetni predmet)](./file/UN_SS_Racunalnistvo.pdf) 🎓 ? letnik ⏳ 280 ur
+* [Računalniški sistemi in omrežja (izbirni strokovni predmet)](./file/UN_SS_Racunalniski_sistemi_in_omrezja.pdf) 🎓 ? letnik ⏳ 210 ur
 
 
 ### LDN ###
