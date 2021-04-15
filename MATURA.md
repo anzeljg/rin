@@ -242,4 +242,4 @@ _Za celotno poglavje:_ 📕364-377
 * razlikuje med temeljnimi metodami odločanja (abacon, preglednica, lupina izvedenskih sistemov) in opredeli njihove lastnosti; za dani primer izbere najustreznejšo metodo in izbiro utemelji; ✅ 2️⃣[2306](https://anzeljg.github.io/rin2/book2/2306/index.html)
 * zgradi večparametrski odločitveni model za preprost odločitveni problem, ovrednoti različice in analizira rezultat vrednotenja z uporabo računalniškega programa za večparametrsko odločanje; po analizi kaj-če utemelji končno odločitev. ✅ 2️⃣[2306](https://anzeljg.github.io/rin2/book2/2306/index.html)
 
-_Za celotno poglavje:_ 📕419-430
+_Za celotno poglavje:_ 📕419-430 📗vse
